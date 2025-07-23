@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@types/dompurify": "^3.0.5",
-    "@types/marked": "^12.0.3",
+    "@types/marked": "^11.2.2",
     "@types/react": "^18.2.18",
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react": "^4.2.1",
@@ -25,3 +25,4 @@
     "vite": "^5.1.3"
   }
 }
+
